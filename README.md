@@ -20,13 +20,12 @@
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div>
   <img src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/gRPC-black?style=for-the-badge&logo=gRPC&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/graphql-black?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/TeamCity-black?style=for-the-badge&logo=teamcity&logoColor=white">
   <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white">
 </div>
